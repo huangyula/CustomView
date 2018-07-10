@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="hyTitleText" format="string"/>
+    <attr name="hyTitleTextColor" format="color"/>
+    <attr name="hyTitleTextSize" format="dimension"/>
+
+    <declare-styleable name="ValidCodeView">
+        <attr name="hyTitleText"/>
+        <attr name="hyTitleTextColor"/>
+        <attr name="hyTitleTextSize"/>
+    </declare-styleable>
+
+
+
+
+</resources>
