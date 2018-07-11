@@ -32,5 +32,13 @@
         android:layout_height="60dp"
         app:popupview_color="#44ffff"
         />
+    <com.hy.customview.view.WaveView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="10dp"
+        app:wareWidth="10"
+        app:wareCount="15"
+        app:mode="circle"
+        />
 
 </LinearLayout>

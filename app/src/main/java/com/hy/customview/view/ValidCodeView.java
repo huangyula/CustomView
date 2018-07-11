@@ -7,10 +7,10 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Rect;
 import android.util.AttributeSet;
-import android.util.TypedValue;
 import android.view.View;
 
 import com.hy.customview.R;
+import com.hy.customview.utils.PxUtils;
 
 import java.util.HashSet;
 import java.util.Random;
@@ -65,7 +65,7 @@ public class ValidCodeView extends View {
                     mTextColor=ra.getColor(attr, Color.BLUE);
                     break;
                 case R.styleable.ValidCodeView_hyTitleTextSize:
-                    mTextSize=ra.getDimensionPixelSize(attr,(int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_SP, 16,getResources().getDisplayMetrics()));
+                    mTextSize=ra.getDimensionPixelSize(attr, PxUtils.spToPx(16,context));
                     break;
             }
             ra.recycle();
