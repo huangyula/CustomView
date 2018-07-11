@@ -21,6 +21,7 @@ import java.util.Set;
  */
 
 /**
+ * 自定义View---验证码
  * 1.在View的构造方法中，获得自定义样式
  * 2.重写onDraw
  */

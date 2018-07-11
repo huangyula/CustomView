@@ -11,7 +11,9 @@
         <attr name="hyTitleTextSize"/>
     </declare-styleable>
 
-
+    <declare-styleable name="PopupView">
+        <attr name="popupview_color" format="color"/>
+    </declare-styleable>
 
 
 </resources>
