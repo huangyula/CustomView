@@ -128,7 +128,7 @@ public class ValidCodeView extends View {
 
         //绘制文字
         mPaint.setColor(mTextColor);
-        canvas.drawText(mTitleText,(getWidth()-mBound.width())/2.0f,(getHeight()+mBound.height())/2.0f,mPaint);
+        canvas.drawText(mTitleText,(getWidth()-mBound.width())/2.0f- mBound.left,(getHeight()+mBound.height())/2.0f,mPaint);
     }
 
     /**
