@@ -68,8 +68,8 @@ public class ValidCodeView extends View {
                     mTextSize=ra.getDimensionPixelSize(attr, PxUtils.spToPx(16,context));
                     break;
             }
-            ra.recycle();
         }
+        ra.recycle();
 
         mPaint=new Paint();
         mPaint.setTextSize(mTextSize);

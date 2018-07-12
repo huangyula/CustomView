@@ -1,9 +1,15 @@
 package com.hy.customview;
 
 import android.os.Bundle;
-import android.app.Activity;
+import android.view.View;
 
-public class MainActivity extends Activity
+import com.hy.customview.activity.BaseActivity;
+import com.hy.customview.activity.CirclePercentViewActivity;
+import com.hy.customview.activity.PopupViewActivity;
+import com.hy.customview.activity.ValidViewActivity;
+import com.hy.customview.activity.WaveViewActivity;
+
+public class MainActivity extends BaseActivity
 {
 
 	@Override
@@ -12,6 +18,25 @@ public class MainActivity extends Activity
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 	}
+
+	public void onValidCodeView(View view){
+		gotoActivity(ValidViewActivity.class);
+	}
+
+	public void onPopupView(View view){
+		gotoActivity(PopupViewActivity.class);
+	}
+
+	public void onWaveView(View view){
+		gotoActivity(WaveViewActivity.class);
+	}
+
+	public void onCirclePercentView(View view){
+		gotoActivity(CirclePercentViewActivity.class);
+	}
+
+
+
 
 
 }

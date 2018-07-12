@@ -25,5 +25,14 @@
         </attr>
     </declare-styleable>
 
+    <declare-styleable name="CirclePercentView">
+        <attr name="radius" format="dimension"/>
+        <attr name="stripeWidth" format="dimension"/><!--色带宽度-->
+        <attr name="percent" format="integer"/><!--百分比-->
+        <attr name="smallColor" format="color"/>
+        <attr name="bigColor" format="color"/>
+        <attr name="centerTextSize" format="dimension"/>
+    </declare-styleable>
+
 
 </resources>
