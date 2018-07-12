@@ -24,11 +24,11 @@
         </activity>
 
         <activity android:name=".activity.WaveViewActivity"
-            android:label="自定义View(二)---泡泡窗">
+            android:label="自定义View(二)---波浪View">
         </activity>
 
         <activity android:name=".activity.PopupViewActivity"
-                  android:label="自定义View(三)---波浪View">
+                  android:label="自定义View(三)---泡泡窗">
         </activity>
 
         <activity android:name=".activity.CirclePercentViewActivity"
