@@ -14,3 +14,4 @@
 **自定义View（四）：圆形百分比(进度条)**  https://blog.csdn.net/wingichoy/article/details/50334595  
 
 ## 效果图
+![image](https://github.com/huangyula/CustomView/blob/master/picture/%E5%9C%86%E5%BD%A2%E7%99%BE%E5%88%86%E6%AF%94.png)
