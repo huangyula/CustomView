@@ -14,9 +14,9 @@
 **自定义View（四）：圆形百分比(进度条)**  https://blog.csdn.net/wingichoy/article/details/50334595  
 
 ## 效果图
-<img src="https://github.com/huangyula/CustomView/picture/自定义View系列.png" width="360" height="640"/>
-<img src="https://github.com/huangyula/CustomView/picture/验证码.png" width="360" height="640"/>
-<img src="https://github.com/huangyula/CustomView/picture/泡泡窗.png" width="360" height="640"/>
-<img src="https://github.com/huangyula/CustomView/picture/波浪View.png" width="360" height="640"/>
-<img src="https://github.com/huangyula/CustomView/picture/圆形百分比.png" width="360" height="640"/>
+<img src="https://github.com/huangyula/CustomView/blob/master/picture/%E8%87%AA%E5%AE%9A%E4%B9%89View%E7%B3%BB%E5%88%97.png" width="360" height="640"/>    <img src="https://github.com/huangyula/CustomView/blob/master/picture/%E6%B3%A1%E6%B3%A1%E7%AA%97.png" width="360" height="640"/>    <img src="https://github.com/huangyula/CustomView/blob/master/picture/%E6%B3%A2%E6%B5%AAView.png" width="360" height="640"/>    <img src="https://github.com/huangyula/CustomView/blob/master/picture/%E9%AA%8C%E8%AF%81%E7%A0%81.png" width="360" height="640"/>    <img src="https://github.com/huangyula/CustomView/blob/master/picture/%E5%9C%86%E5%BD%A2%E7%99%BE%E5%88%86%E6%AF%94.png" width="360" height="640"/>
+
+
+
+
 
