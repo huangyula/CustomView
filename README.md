@@ -8,11 +8,15 @@
 >继续写，直至完成！
      
 ## 目录
-**自定义View（一）：验证码**  https://blog.csdn.net/lmj623565791/article/details/24252901  
-**自定义View（二）：泡泡窗**  https://blog.csdn.net/wingichoy/article/details/50455412  
-**自定义View（三）：波浪View**  https://blog.csdn.net/wingichoy/article/details/50460213  
+**自定义View（一）：验证码**   https://blog.csdn.net/lmj623565791/article/details/24252901  
+**自定义View（二）：泡泡窗**   https://blog.csdn.net/wingichoy/article/details/50455412  
+**自定义View（三）：波浪View**   https://blog.csdn.net/wingichoy/article/details/50460213  
 **自定义View（四）：圆形百分比(进度条)**  https://blog.csdn.net/wingichoy/article/details/50334595  
 
 ## 效果图
-<img src="https://github.com/huangyula/CustomView/blob/master/picture/.png" width="360" height="640" alt="图片描述文字"/>
-<img src="https://github.com/huangyula/CustomView/blob/master/picture/%E5%9C%86%E5%BD%A2%E7%99%BE%E5%88%86%E6%AF%94.png" width="360" height="640" alt="图片描述文字"/>
+<img src="https://github.com/huangyula/CustomView/picture/自定义View系列.png" width="360" height="640"/>
+<img src="https://github.com/huangyula/CustomView/picture/验证码.png" width="360" height="640"/>
+<img src="https://github.com/huangyula/CustomView/picture/泡泡窗.png" width="360" height="640"/>
+<img src="https://github.com/huangyula/CustomView/picture/波浪View.png" width="360" height="640"/>
+<img src="https://github.com/huangyula/CustomView/picture/圆形百分比.png" width="360" height="640"/>
+
