@@ -35,6 +35,10 @@
                   android:label="自定义View(四)---圆形百分比进度条">
         </activity>
 
+        <activity android:name=".activity.SimpleLineChartActivity"
+                  android:label="自定义View(五)---简约折线图">
+        </activity>
+
 
 
     </application>

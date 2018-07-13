@@ -28,5 +28,10 @@
         android:layout_height="wrap_content"
         android:text="自定义View---圆形百分比(进度条)"
         android:onClick="onCirclePercentView"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义View---简约折线图"
+        android:onClick="onSimpleLineChart"/>
 
 </LinearLayout>
