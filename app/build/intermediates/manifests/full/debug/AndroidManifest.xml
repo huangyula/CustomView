@@ -5,14 +5,14 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="8"
-        android:targetSdkVersion="17" />
+        android:minSdkVersion="17"
+        android:targetSdkVersion="23" />
 
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/Theme.AppCompat.Light" >
         <activity
             android:name="com.hy.customview.MainActivity"
             android:label="@string/app_name" >
@@ -21,6 +21,30 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hy.customview.activity.ValidViewActivity"
+            android:label="自定义View(一)---验证码" >
+        </activity>
+        <activity
+            android:name="com.hy.customview.activity.WaveViewActivity"
+            android:label="自定义View(二)---波浪View" >
+        </activity>
+        <activity
+            android:name="com.hy.customview.activity.PopupViewActivity"
+            android:label="自定义View(三)---泡泡窗" >
+        </activity>
+        <activity
+            android:name="com.hy.customview.activity.CirclePercentViewActivity"
+            android:label="自定义View(四)---圆形百分比进度条" >
+        </activity>
+        <activity
+            android:name="com.hy.customview.activity.SimpleLineChartActivity"
+            android:label="自定义View(五)---简约折线图" >
+        </activity>
+        <activity
+            android:name="com.hy.customview.activity.PanelViewActivity"
+            android:label="自定义View(五)---仪表盘" >
         </activity>
     </application>
 

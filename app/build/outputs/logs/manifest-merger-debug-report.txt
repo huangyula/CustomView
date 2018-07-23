@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:2:1-49:12
 	package
 		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml
@@ -15,39 +15,86 @@ ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:7:5-47:19
+MERGED from [com.android.support:design:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+	android:label
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:11:9-53
+activity#com.hy.customview.MainActivity
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:13:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.hy.customview.activity.ValidViewActivity
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:22:9-24:20
+	android:label
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:23:19-51
+	android:name
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:22:19-61
+activity#com.hy.customview.activity.WaveViewActivity
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:26:9-28:20
+	android:label
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:26:19-60
+activity#com.hy.customview.activity.PopupViewActivity
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:30:9-32:20
+	android:label
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:31:19-51
+	android:name
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:30:19-61
+activity#com.hy.customview.activity.CirclePercentViewActivity
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:34:9-36:20
+	android:label
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:35:19-56
+	android:name
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:34:19-69
+activity#com.hy.customview.activity.SimpleLineChartActivity
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:38:9-40:20
+	android:label
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:39:19-53
+	android:name
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:38:19-67
+activity#com.hy.customview.activity.PanelViewActivity
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:42:9-44:20
+	android:label
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:43:19-51
+	android:name
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:42:19-61
 uses-sdk
-ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml
 		INJECTED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:8:9-34
 		INJECTED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml
 		INJECTED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml
-application
-ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:11:5-25:19
-	android:label
-		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:14:9-41
-	android:allowBackup
-		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:12:9-35
-	android:icon
-		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:13:9-45
-	android:theme
-		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:15:9-40
-activity#com.hy.customview.MainActivity
-ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:16:9-24:20
-	android:label
-		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:18:13-45
-	android:name
-		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:17:13-58
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:19:13-23:29
-action#android.intent.action.MAIN
-ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:20:17-69
-	android:name
-		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:20:25-66
-category#android.intent.category.LAUNCHER
-ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:22:17-77
-	android:name
-		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:22:27-74
