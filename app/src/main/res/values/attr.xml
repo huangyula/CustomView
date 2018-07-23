@@ -34,5 +34,14 @@
         <attr name="centerTextSize" format="dimension"/>
     </declare-styleable>
 
+    <declare-styleable name="PanelView">
+        <attr name="arcColor" format="color"/>
+        <attr name="arcWidth" format="dimension"/>
+        <attr name="android:text"/>
+        <attr name="tikeCount" format="integer"/>
+        <attr name="pointerColor" format="color"/>
+        <attr name="android:textSize"/>
+    </declare-styleable>
+
 
 </resources>
