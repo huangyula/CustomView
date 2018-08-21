@@ -44,6 +44,10 @@
         "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_dialog.xml",
+        "source": "F:\\mystudy\\CustomView\\app\\src\\main\\res\\layout\\view_dialog.xml"
+    },
+    {
         "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
     },
@@ -168,6 +172,10 @@
         "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+        "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
+        "source": "F:\\mystudy\\CustomView\\app\\src\\main\\res\\layout\\layout.xml"
+    },
+    {
         "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
     },
@@ -186,6 +194,10 @@
     {
         "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loading_success.xml",
+        "source": "F:\\mystudy\\CustomView\\app\\src\\main\\res\\layout\\activity_loading_success.xml"
     },
     {
         "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",

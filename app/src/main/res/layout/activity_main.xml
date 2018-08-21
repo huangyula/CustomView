@@ -39,5 +39,11 @@
         android:text="自定义View---仪表盘"
         android:onClick="onPanelView"
         />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义View---loading成功动画view"
+        android:onClick="onSuccessView"
+        />
 
 </LinearLayout>

@@ -46,6 +46,9 @@
             android:name="com.hy.customview.activity.PanelViewActivity"
             android:label="自定义View(五)---仪表盘" >
         </activity>
+        <activity
+            android:name="com.hy.customview.activity.LoadSuccessViewActivity"
+            android:label="自定义View(六)---loading成功动画view" />
     </application>
 
 </manifest>

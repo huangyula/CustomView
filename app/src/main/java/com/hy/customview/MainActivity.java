@@ -5,6 +5,7 @@ import android.view.View;
 
 import com.hy.customview.activity.BaseActivity;
 import com.hy.customview.activity.CirclePercentViewActivity;
+import com.hy.customview.activity.LoadSuccessViewActivity;
 import com.hy.customview.activity.PanelViewActivity;
 import com.hy.customview.activity.PopupViewActivity;
 import com.hy.customview.activity.SimpleLineChartActivity;
@@ -45,6 +46,12 @@ public class MainActivity extends BaseActivity
 	public void onPanelView(View view){
 		gotoActivity(PanelViewActivity.class);
 	}
+
+	public void onSuccessView(View view){
+		gotoActivity(LoadSuccessViewActivity.class);
+	}
+
+
 
 
 }
