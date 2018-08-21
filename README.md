@@ -14,6 +14,9 @@
 **自定义View（四）：圆形百分比(进度条)**  https://blog.csdn.net/wingichoy/article/details/50334595  
 **自定义View（五）：简约折线图**   https://blog.csdn.net/wingichoy/article/details/50434634  
 **自定义View（六）：仪表盘**       https://blog.csdn.net/wingichoy/article/details/50483101  
+**自定义View(七）：loading成功动画**       https://blog.csdn.net/wingichoy/article/details/50482271  
+
+
 
 ## 效果图
 <img src="https://github.com/huangyula/CustomView/blob/master/picture/main.png" width="360" height="640"/>    <img src="https://github.com/huangyula/CustomView/blob/master/picture/%E6%B3%A1%E6%B3%A1%E7%AA%97.png" width="360" height="640"/>    <img src="https://github.com/huangyula/CustomView/blob/master/picture/%E6%B3%A2%E6%B5%AAView.png" width="360" height="640"/>    <img src="https://github.com/huangyula/CustomView/blob/master/picture/%E9%AA%8C%E8%AF%81%E7%A0%81.png" width="360" height="640"/>    <img src="https://github.com/huangyula/CustomView/blob/master/picture/%E5%9C%86%E5%BD%A2%E7%99%BE%E5%88%86%E6%AF%94.png" width="360" height="640"/>
