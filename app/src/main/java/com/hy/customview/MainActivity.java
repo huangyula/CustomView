@@ -5,10 +5,12 @@ import android.view.View;
 
 import com.hy.customview.activity.BaseActivity;
 import com.hy.customview.activity.CirclePercentViewActivity;
+import com.hy.customview.activity.CleanActivity;
 import com.hy.customview.activity.LoadSuccessViewActivity;
 import com.hy.customview.activity.PanelViewActivity;
 import com.hy.customview.activity.PopupViewActivity;
 import com.hy.customview.activity.SimpleLineChartActivity;
+import com.hy.customview.activity.TouchActivity;
 import com.hy.customview.activity.ValidViewActivity;
 import com.hy.customview.activity.WaveViewActivity;
 
@@ -49,6 +51,12 @@ public class MainActivity extends BaseActivity
 
 	public void onSuccessView(View view){
 		gotoActivity(LoadSuccessViewActivity.class);
+	}
+	public void onTouchView(View view){
+		gotoActivity(TouchActivity.class);
+	}
+	public void onCleanView(View view){
+		gotoActivity(CleanActivity.class);
 	}
 
 

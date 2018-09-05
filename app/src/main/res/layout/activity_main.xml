@@ -46,4 +46,17 @@
         android:onClick="onSuccessView"
         />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义View---神奇的赛贝尔曲线"
+        android:onClick="onTouchView"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义View---360内存清理效果"
+        android:onClick="onCleanView"
+        />
+
 </LinearLayout>
