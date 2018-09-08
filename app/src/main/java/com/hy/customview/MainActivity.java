@@ -6,6 +6,7 @@ import android.view.View;
 import com.hy.customview.activity.BaseActivity;
 import com.hy.customview.activity.CirclePercentViewActivity;
 import com.hy.customview.activity.CleanActivity;
+import com.hy.customview.activity.CustomViewViewActivity;
 import com.hy.customview.activity.LoadSuccessViewActivity;
 import com.hy.customview.activity.PanelViewActivity;
 import com.hy.customview.activity.PopupViewActivity;
@@ -57,6 +58,9 @@ public class MainActivity extends BaseActivity
 	}
 	public void onCleanView(View view){
 		gotoActivity(CleanActivity.class);
+	}
+	public void onCustomView(View view){
+		gotoActivity(CustomViewViewActivity.class);
 	}
 
 

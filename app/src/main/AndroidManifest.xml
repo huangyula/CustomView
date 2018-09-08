@@ -51,6 +51,9 @@
         <activity android:name=".activity.CleanActivity"
                   android:label="自定义View(八)---360内存清理效果"></activity>
 
+        <activity android:name=".activity.CustomViewViewActivity"
+                  android:label="自定义View(九)---简单的圆形扩散动画View"></activity>
+
 
     </application>
 

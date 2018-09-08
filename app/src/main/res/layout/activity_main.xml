@@ -58,5 +58,12 @@
         android:text="自定义View---360内存清理效果"
         android:onClick="onCleanView"
         />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义View---简单的圆形扩散动画View"
+        android:onClick="onCustomView"
+        />
+
 
 </LinearLayout>

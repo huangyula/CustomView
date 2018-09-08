@@ -49,6 +49,15 @@
         <activity
             android:name="com.hy.customview.activity.LoadSuccessViewActivity"
             android:label="自定义View(六)---loading成功动画view" />
+        <activity
+            android:name="com.hy.customview.activity.TouchActivity"
+            android:label="自定义View(七)---神奇的赛贝尔曲线" />
+        <activity
+            android:name="com.hy.customview.activity.CleanActivity"
+            android:label="自定义View(八)---360内存清理效果" />
+        <activity
+            android:name="com.hy.customview.activity.CustomViewViewActivity"
+            android:label="自定义View(九)" />
     </application>
 
 </manifest>

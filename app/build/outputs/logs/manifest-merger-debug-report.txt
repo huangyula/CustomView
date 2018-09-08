@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:2:1-57:12
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:2:1-60:12
 	package
 		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml
@@ -16,7 +16,7 @@ ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:2:1-57:12
 	xmlns:android
 		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:7:5-55:19
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:7:5-58:19
 MERGED from [com.android.support:design:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
@@ -100,6 +100,12 @@ ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:51:9-52:69
 		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:52:19-57
 	android:name
 		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:51:19-57
+activity#com.hy.customview.activity.CustomViewViewActivity
+ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:54:9-55:57
+	android:label
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:55:19-45
+	android:name
+		ADDED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml:54:19-66
 uses-sdk
 INJECTED from F:\mystudy\CustomView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:23.4.0] F:\mystudy\CustomView\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43

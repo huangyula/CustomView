@@ -140,6 +140,14 @@
         "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
+        "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean.xml",
+        "source": "F:\\mystudy\\CustomView\\app\\src\\main\\res\\layout\\activity_clean.xml"
+    },
+    {
+        "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custonview.xml",
+        "source": "F:\\mystudy\\CustomView\\app\\src\\main\\res\\layout\\activity_custonview.xml"
+    },
+    {
         "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
     },
@@ -164,12 +172,12 @@
         "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
-    },
-    {
         "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
@@ -180,12 +188,12 @@
         "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "F:\\mystudy\\CustomView\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popupview.xml",
         "source": "F:\\mystudy\\CustomView\\app\\src\\main\\res\\layout\\activity_popupview.xml"
+    },
+    {
+        "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\mystudy\\CustomView\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
@@ -198,6 +206,10 @@
     {
         "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loading_success.xml",
         "source": "F:\\mystudy\\CustomView\\app\\src\\main\\res\\layout\\activity_loading_success.xml"
+    },
+    {
+        "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_touch.xml",
+        "source": "F:\\mystudy\\CustomView\\app\\src\\main\\res\\layout\\activity_touch.xml"
     },
     {
         "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
@@ -224,12 +236,12 @@
         "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
         "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_simplelinechart.xml",
         "source": "F:\\mystudy\\CustomView\\app\\src\\main\\res\\layout\\activity_simplelinechart.xml"
+    },
+    {
+        "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "F:\\mystudy\\CustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
