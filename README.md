@@ -17,6 +17,7 @@
 **自定义View(七）：loading成功动画**       https://blog.csdn.net/wingichoy/article/details/50482271  
 **自定义View（八）：仿360清理效果**   https://blog.csdn.net/wingichoy/article/details/50500479  
 **自定义View(九）：简单的圆形扩散动画View**  
+**自定义View（十）：仿微信下拉眼睛**  https://blog.csdn.net/wingichoy/article/details/50503858  
 
 
 
