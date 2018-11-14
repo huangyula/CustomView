@@ -14,6 +14,7 @@ import com.hy.customview.activity.SimpleLineChartActivity;
 import com.hy.customview.activity.TouchActivity;
 import com.hy.customview.activity.ValidViewActivity;
 import com.hy.customview.activity.WaveViewActivity;
+import com.hy.customview.activity.WeChatEyeActivity;
 
 public class MainActivity extends BaseActivity
 {
@@ -61,6 +62,9 @@ public class MainActivity extends BaseActivity
 	}
 	public void onCustomView(View view){
 		gotoActivity(CustomViewViewActivity.class);
+	}
+	public void onWeChatEyeView(View view){
+		gotoActivity(WeChatEyeActivity.class);
 	}
 
 

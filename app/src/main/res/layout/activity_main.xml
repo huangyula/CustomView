@@ -1,4 +1,4 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
                 xmlns:app="http://schemas.android.com/apk/res-auto"
                 xmlns:tools="http://schemas.android.com/tools"
                 android:layout_width="match_parent"
@@ -7,63 +7,80 @@
                 android:orientation="vertical"
                 android:layout_margin="10dp"
     >
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="自定义View---验证码"
-        android:onClick="onValidCodeView"/>
 
-    <Button
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="自定义View---波浪View"
-        android:onClick="onWaveView"/>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="自定义View---泡泡窗"
-        android:onClick="onPopupView"/>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="自定义View---圆形百分比(进度条)"
-        android:onClick="onCirclePercentView"/>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="自定义View---简约折线图"
-        android:onClick="onSimpleLineChart"/>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="自定义View---仪表盘"
-        android:onClick="onPanelView"
-        />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="自定义View---loading成功动画view"
-        android:onClick="onSuccessView"
-        />
+        android:orientation="vertical">
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="自定义View---神奇的赛贝尔曲线"
-        android:onClick="onTouchView"
-        />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="自定义View---360内存清理效果"
-        android:onClick="onCleanView"
-        />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="自定义View---简单的圆形扩散动画View"
-        android:onClick="onCustomView"
-        />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自定义View---验证码"
+            android:onClick="onValidCodeView"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自定义View---波浪View"
+            android:onClick="onWaveView"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自定义View---泡泡窗"
+            android:onClick="onPopupView"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自定义View---圆形百分比(进度条)"
+            android:onClick="onCirclePercentView"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自定义View---简约折线图"
+            android:onClick="onSimpleLineChart"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自定义View---仪表盘"
+            android:onClick="onPanelView"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自定义View---loading成功动画view"
+            android:onClick="onSuccessView"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自定义View---神奇的赛贝尔曲线"
+            android:onClick="onTouchView"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自定义View---360内存清理效果"
+            android:onClick="onCleanView"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自定义View---简单的圆形扩散动画View"
+            android:onClick="onCustomView"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自定义View---微信下拉眼睛View"
+            android:onClick="onWeChatEyeView"
+            />
 
 
-</LinearLayout>
+
+
+    </LinearLayout>
+
+</ScrollView>
